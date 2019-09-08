@@ -12,4 +12,6 @@ now the default in developer builds.  As before, use
 '--disable-gcc-warnings' to suppress GCC's warnings, and
 '--enable-gcc-warnings' to stop the build if GCC issues warnings.
 
-I am adding a new line right here again
+I am adding a new line right here again.
+
+Thanks.
